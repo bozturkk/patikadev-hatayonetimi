@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/bin/Debug/net6.0/HataYonetimi
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/bin/Debug/net6.0/HataYonetimi.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/bin/Debug/net6.0/HataYonetimi.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/bin/Debug/net6.0/HataYonetimi.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/bin/Debug/net6.0/HataYonetimi.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/refint/HataYonetimi.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/HataYonetimi.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/HataYonetimi/obj/Debug/net6.0/ref/HataYonetimi.dll
